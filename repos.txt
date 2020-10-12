@@ -1,4 +1,3 @@
-mashehu/zenbu-docker
 daublab/web
 daublab/db
 daublab/zenbu-docker
